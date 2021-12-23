@@ -20,7 +20,7 @@
 ─────────────────────────────────────
 </p>
 
-![Congo GitHub stats](https://github-readme-stats.vercel.app/api?username=00dolla&show_icons=true&theme=midnight-purple)
+![Congo GitHub stats](https://github-readme-stats.vercel.app/api?username=congo&show_icons=true&theme=midnight-purple)
 
 
 
