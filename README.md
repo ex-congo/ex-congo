@@ -38,9 +38,6 @@
 
 
 
-<a href="https://discord.gg/exindustry">
-   <img align='right' src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&&label=PROFILE+VIEWS&color=020202">
-</a>
 
 
 
