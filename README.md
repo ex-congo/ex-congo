@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/857714045251878972/923647247302930472/5b8850f61f363b9e772bad1aa0d06169.gif" width="2000"> 
+<p align="center"><img src="https://cdn.discordapp.com/attachments/857714045251878972/923225777925943306/1-1.gif" width="2000"> 
 
 <p align="center">
 
@@ -58,4 +58,4 @@
 
 🔎 From [ex-congo](https://github.com/ex-congo)
 🔎 Discord [ex congo#1807](https://discord.gg/exindustry/)
-🔎 Exodius Archive [@Github](hhttps://discord.gg/5mB3tKFHgw/)
+🔎 Exodius Archive [Discord](https://discord.gg/5mB3tKFHgw/)
