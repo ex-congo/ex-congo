@@ -1,7 +1,3 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/857714045251878972/923225777925943306/1-1.gif" width="2000"> 
-
-<p align="center">
-
 </p>
 
 <h1 align="center">⚡️</h1>
